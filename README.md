@@ -11,7 +11,6 @@ I just wanan practice my programe skills by this project.
 ##Current features：
 
 > 1. Simple UI
-
 > 2. JJGirls.com pic reviews
 
 ##Developing：
